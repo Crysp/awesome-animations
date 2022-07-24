@@ -1,0 +1,1 @@
+- [Symbols generator](https://github.com/SFSafeSymbols/SFSafeSymbols/tree/stable/SymbolsGenerator)
